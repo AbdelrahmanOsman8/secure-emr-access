@@ -28,5 +28,5 @@ Protecting patient data is critical in healthcare. This system demonstrates acce
 - Add GUI for secure EMR portal simulation
 
 ## Author
-Abdelrahman Ahmed  
+Abdelrahman Osman  
 Health Informatics Student
